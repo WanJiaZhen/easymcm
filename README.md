@@ -1,5 +1,9 @@
 # 一个简洁、易用的美赛 LaTeX 模板: easymcm
 
+## 本人的话
+本人是一个初学LaTeX的菜鸟(始于2019.10.23)，起初学习的目的是为了参加数学建模比赛，有幸得到了这份易于学习的美赛LaTeX的sty(宏包)类模板,希望能够籍此深入地学习LaTeX，并将所学的东西应用到以后的论文写作之中.
+
+## 原作者的话
 `easymcm.sty`是一个为美国大学生数学建模竞赛（MCM）准备的简易 LaTeX 宏包（文件）。它二次开发自 LaTeX 宏包 `mcmthesis` 于 2013 年发布的 `v5.0` 版本，原作者是[王昭礼](http://www.latexstudio.net)。
 
 > 事实上，`easymcm` 与 `mcmthesis` 的最新版本（`v6.2`）并无关联，后者为一个文档类（documentclass）而非一个宏包（package）。该文档类现由 [Liam0205](https://github.com/Liam0205/mcmthesis/releases/) 维护。
